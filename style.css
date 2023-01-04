@@ -1,0 +1,95 @@
+.main-header-img
+{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.contact-header-img
+{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+h1 {
+    color: #939393fa;
+    background-color: #f9a4f9;
+}
+
+h2 {
+    color: #f9a4f9;
+    background-color: #939393dc;
+}
+
+h3 {
+    background-color: #ffff68;
+}
+
+#main-topic-p {
+    background-color: #f26ef0dc;
+}
+
+a:hover {
+    border: #f9a4f9 solid 2px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: aqua;
+}
+
+a:active {
+    color: coral;
+}
+
+.subtopic-p:hover {
+    color: aqua;
+}
+
+#contact:visited {
+    color: rgb(222, 31, 31);
+}
+
+#partners 
+{
+    background-color: rgb(255, 0, 0);
+}
+
+#contact-h
+{
+    background-color: white;
+}
+
+#lollipop
+{
+    float: left;
+    border: 5px solid yellow;
+    margin-right: 10px;
+    width: 125px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#candyfloss
+{
+    float: right;
+    border: 5px solid yellow;
+    margin-left: 10px;
+    width: 125px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#beans
+{
+    float: left;
+    border: 5px solid yellow;
+    margin-right: 10px;
+    width: 125px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
